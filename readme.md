@@ -41,8 +41,8 @@ This repository includes sample code of galaxy108 web game engine.
  - gameClient/gameRender/layerTerrain
    - game have multi layers, such as undergroundLayer / terrainLayer / skyLayer.  
    - each layer has a manager
-   - each layer have multi level of views
-   - 'mayLayer' includes all render-able views when player generating game map
+   - each layer has multi level of views
+   - 'gameClient/gameRender/layerTerrain/mayLayer' folder includes all render-able views when player generating game map
 
 
 ## Server Side
