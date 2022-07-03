@@ -6,9 +6,9 @@ This repository includes sample code of galaxy108 web game engine.
  - gameBase/modelNetwork
    - abstract client , server and server client channel api
  - gameClient/networking/geckosClient
-   - client side extension for geckos.io network framework
+   - client side extension of geckos.io(udp) & socket.io(tcp) network framework
  - gameServer/networking/geckosServer
-   - server side extension for geckos.io network framework
+   - server side extension of geckos.io(udp) & socket.io(tcp) network framework
  - gameClient/networking/browserClient & browserCerser
    - client and server combination for browser mode
 
